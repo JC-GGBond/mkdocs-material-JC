@@ -1,4 +1,4 @@
-# JC。GGbond的MkDocs书稿
+# JC.GGbond的MkDocs书稿
 记录个人算法学习过程，
 代替hexo的next主题页面部署，
 其实感觉差不多，
@@ -10,4 +10,7 @@
 
 * git add.
 * git commit -m "XXX"
-* git push origin main
+* git push origin mains
+
+每一个Page是横向标题，所以直接在一个.md文件里写完所有的稿子，
+写一个轻量电子书的感觉
