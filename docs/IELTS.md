@@ -28,7 +28,7 @@ learn from Band 9
 
 The bar chart illustrates the frequency of swimming among people in Australia from 2001 to 2003.
 
-In sum, the proportion of people who swam irregularly weekly and monthly was the highest. As foe those who swam with different frequencies, the trends varied from 2001 to 2003.
+In sum, the proportion of people who swam irregularly weekly and monthly was the highest. As for those who swam with different frequencies, the trends varied from 2001 to 2003.
 
 Of these, the largest group was those who swam at least once a week, with an average percentage of over 25% and a peak over 35%. Moreover, the percentage of people who swam one to two times a month was also high, with the lowest measurement being only 25%. At the same time, 15% to 20% of the population swam several times a week or several times a year, while only about 5% of people swam everyday or never swam at all. 
  
@@ -42,3 +42,8 @@ In 2002, there was a large incerase (about 5%) in the percentage of people who s
 
 话题写作
 250+ words
+
+Ourlife is saturated with various advertisements nowadays. However, I don’t think that children should be the focus of marketing campaigns.
+As a first point, I believe that advertisement can easily influence children negatively because of their immaturity. To begin with, children lack sufficient judgement, resulting in a lack of clarity about their true needs.Hence, they themselves and their parents always engage in impulsive spending, buying many items they do not need.A youngboy, for instance,could be tempted by an advertising for a musical instrument and make the purchase, regardless of whether he has any interest in music. As a result, he loses interest in playing the instrument halfway. In addition, when faced with the lure of some advertisements, children may even engage in criminal behavior due to lack of self-control.In order to get the advertised product, a child may steal moneyfrom hisorher parents or even steal the item from the store.
+Secondly, children's healthy growth and development can be harmed by exposure to advertising. Advertising for video games is one form of marketing that can harm children. Video game advertisements promote reward mechanisms that can lull children into believing that they will be rewarded for no effort. At the same time, the killing scenes in games may also contribute to children's propensity for violence. Advertising for junk food is another form of objectionable marketing.Manychildren fall for advertisement for fried, high-sugar, high-salt foods. Consider a child who eats these heavily processed foods for lunch every day; his or her chances of becoming obese or even severely ill skyrocket.
+To conclude, it is important tobanadvertising to children since it has a negative impact on both children’s behavior and the environment in which they will grow.
